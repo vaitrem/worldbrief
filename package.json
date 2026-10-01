@@ -1,0 +1,8 @@
+{
+  "name": "worldbrief",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
